@@ -1,0 +1,5 @@
+---
+title: "Sydney T. Smith Personal Webiste"
+site: distill::distill_website
+listing: posts
+---
